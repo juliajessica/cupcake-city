@@ -1,0 +1,39 @@
+body {
+  background-color: #eff2a2;
+}
+
+h1 {
+  font-size: 45px;
+  color: #78a58d;
+}
+
+.img-scale {
+  width: 500px;
+  height: auto;
+}
+
+.cupcake-list {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  list-style-type: none;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.flashy {
+  color: #b23423;
+  font-style: italic;
+}
+
+.best {
+  color: #7a69c6;
+  font-family: cursive;
+  font-weight: bolder;
+}
+
+.paragraph {
+  font-size: 29px;
+}
